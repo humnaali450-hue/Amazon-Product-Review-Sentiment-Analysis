@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🛒 Amazon Product Review Sentiment Analysis
 
 ## 📌 Project Overview
@@ -31,8 +31,3 @@ You will explore text preprocessing, visualizations, and build **machine learnin
 * Scikit-learn  
 * NLTK / SpaCy (for text preprocessing)  
 * Jupyter Notebook (VS Code)
-
-
-=======
-# Sentiment_Data_Analysis
->>>>>>> acc73cabe15b1bb15347f77267fabdea2286e5eb
